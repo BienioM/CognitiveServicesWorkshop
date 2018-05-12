@@ -52,6 +52,7 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 3. Repeat the test for another image
 ![Test](images/test2.PNG)
 
+## Use the prediction endpoint to test images programmatically
 
 
 
