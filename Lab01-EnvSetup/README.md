@@ -45,6 +45,13 @@ source activate <Env name>
 pip install azure-cognitiveservices-vision-customvision
 ```
 
+## Clone the workshop's repo
+Clone the workshop's repo in your preferred location
+```
+git clone https://github.com/jarokaz/CognitiveServicesWorkshop.git
+```
+
+
 
 
 
