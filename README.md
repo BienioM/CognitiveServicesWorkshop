@@ -1,7 +1,7 @@
 # Hands-on Labs for Microsoft Cognitive Services Workshop
 This repository contains hands-on labs utilized during workshops and architecture design sessions on Microsoft Cognitive Services and Bots delivered in Microsoft Silicon Valley Technology Center.
 
-This is work in progress. Labs are modified and added on an ongoing basis. This is not 
+This is work in progress. Labs are modified and added on an ongoing basis. 
 
 ## Particpant workstation set up.
 
