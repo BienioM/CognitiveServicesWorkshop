@@ -62,4 +62,6 @@ Verify that you can see this screen
 
 ![Step 5](images/jupyter.JPG)
 
+Congratulations. Your environment is ready.
+
 
