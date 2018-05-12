@@ -52,7 +52,12 @@ git clone https://github.com/jarokaz/CognitiveServicesWorkshop.git
 ```
 
 ## Start Jupyter Lab 
-Start Jupyter Lab from the 
+Start Jupyter Lab from the root folder of the workshop's repo
+```
+jupyter lab
+```
+
+## Connect to Jupyter Lab
 
 
 
