@@ -44,16 +44,17 @@ Clone the workshop's repo in your preferred location
 git clone https://github.com/jarokaz/CognitiveServicesWorkshop.git
 ```
 
-## Start Jupyter Lab 
+## Verify that you can start and connect to Jupyter Lab 
 Start Jupyter Lab from the root folder of the workshop's repo
 ```
 jupyter lab
 ```
-
-## Connect to Jupyter Lab
+Connect to Jupyter Lab
 Verify that you can see this screen
 
 ![Step 5](images/jupyter.JPG)
+
+Press `Ctrl-C` to kill the Jupyter session.
 
 Congratulations. Your environment is ready.
 
