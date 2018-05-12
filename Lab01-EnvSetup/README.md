@@ -31,17 +31,10 @@ https://customvision.ai
 ![Step 4](images/pr4.JPG)
 
 ## Install Custom Vision SDK
-As indicated in the workshop prerequisities you should have Anaconda Python 3.5+ pre-installed. If you don't, know is the time
+As indicated in the workshop prerequisities you should have Anaconda for Python 3 pre-installed. If you don't, know is the time.
+If you prefer you can create `conda` environment to run the SDK in a sandbox.
 
-### Create conda env
-This is an optional step but since we are installing a preview feature it is advisable to isolate it in a dedicated environment
 ```
-conda create -n <Env name> python=3.5
-```
-If you prefer you can use Python 3.6
-### Activate the newly created environment and install Custom Vision SDK
-```
-source activate <Env name>
 pip install azure-cognitiveservices-vision-customvision
 ```
 
