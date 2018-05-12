@@ -51,7 +51,8 @@ Clone the workshop's repo in your preferred location
 git clone https://github.com/jarokaz/CognitiveServicesWorkshop.git
 ```
 
-
+## Start Jupyter Lab 
+Start Jupyter Lab from the 
 
 
 
