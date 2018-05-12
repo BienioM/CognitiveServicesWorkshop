@@ -3,7 +3,13 @@ This repository contains hands-on labs utilized during workshops and architectur
 
 This is work in progress. Labs are modified and added on an ongoing basis. 
 
-## Particpant workstation set up.
+## Prerequisites
+
+### Skills
+- Basic proficiency in Python and Jupyter
+- High level understanding of cloud computing concepts
+
+### Equipment
 
 Participants of the workshop are expected to bring their own workstations. Any operating system can be utilized as long as Anaconda Python 3.5+ is installed and the participant has access to Azure subscription.
 
