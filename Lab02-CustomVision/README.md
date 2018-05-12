@@ -54,5 +54,8 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 
 ## Use the prediction endpoint to test images programmatically
 
+Follow the instructor. Walk through `predict.ipynb` Jupyter notebook.
+
+
 
 
