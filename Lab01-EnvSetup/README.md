@@ -1,6 +1,6 @@
-# Labs environment setup
+# Environment setup
 
-The goal of this lab is to prepare a lab environment that will be utilized during the workshop. 
+The goal of this lab is to prepare the environment that will be utilized during the workshop. 
 
 ## Provision Cognitive Services
 
