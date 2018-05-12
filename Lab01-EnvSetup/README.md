@@ -59,6 +59,7 @@ jupyter lab
 
 ## Connect to Jupyter Lab
 Verify that you can see this screen
+
 ![Step 5](images/jupyter.JPG)
 
 
