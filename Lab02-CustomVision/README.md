@@ -1,4 +1,22 @@
 # Build an image classifier
+
+In this lab, we will build an image classifier that can recognize and label blemishes on construction lumber. 
+
+**Data courtesy of:**
+
+Olli Silven       olli@ee.oulu.fi
+
+Hannu Kauppinen    hsk@ee.oulu.fi
+
+University of Oulu, Finland
+
+http://www.ee.oulu.fi/research/imag/wood/WOOD/README
+
+http://www.ee.oulu.fi/research/imag/wood/WOOD/
+
+
+
+
 ## Create a new project
 To create a new project, use the following steps:
 1. In your web browser, navigate to the Custom Vision web page. Select Sign in to begin using the service.
