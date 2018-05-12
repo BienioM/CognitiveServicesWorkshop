@@ -30,4 +30,14 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 4. Select a Resource Group. The Resource Group dropdown shows you all of your Azure Resource Groups that include a Custom Vision Service Resource. Use the Resource Group that was provision during the environment set up.
 5. To create the project, select **Create Project**.
 
+## Upload and tag training images
+1. To add images to the classifier, use the Add images button and then select Browse local files. Select Open to move to tagging.
+![Add images](images/add.JPG)
+
+2. To set the tag, enter text in the My Tags field and then use the + button. 
+
+![Add images](images/tag.JPG)
+
+3. To upload another set of images, return to step 1. For example, if you want to distinguish between knots and strips, upload and tag images of strips.
+
 
