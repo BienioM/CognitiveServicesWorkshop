@@ -43,6 +43,6 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 ## Train and evaluate the classifier
 1. To train the classifier, select the Train button.
 ![Train](images/train02.png)
-![Train](images/train03.png)
+![Train](images/train03.PNG)
 
 
