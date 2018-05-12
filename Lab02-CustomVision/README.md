@@ -54,6 +54,10 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 
 ## Use the prediction endpoint to test images programmatically
 
+Mark the current version of the service as default
+
+![Mark iteration](images/default.PNG)
+
 Follow the instructor. Walk through `predict.ipynb` Jupyter notebook.
 
 
