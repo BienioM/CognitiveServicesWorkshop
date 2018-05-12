@@ -56,7 +56,7 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 
 Mark the current version of the service as default
 
-![Mark iteration](images/default.PNG)
+![Mark iteration](images/iteration.PNG)
 
 Follow the instructor. Walk through `predict.ipynb` Jupyter notebook.
 
