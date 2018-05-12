@@ -19,8 +19,7 @@ http://www.ee.oulu.fi/research/imag/wood/WOOD/
 
 ## Create a new project
 To create a new project, use the following steps:
-1. In your web browser, navigate to !
-[Custom Vision web page](https://customvision.ai). 
+1. In your web browser, navigate to [Custom Vision web page](https://customvision.ai). 
 Select New Project. For your first project, you are asked to agree to the Terms of Service. 
 Select the check box, and then select the I agree button. The New project dialog box appears.
 
