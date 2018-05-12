@@ -45,4 +45,13 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 ![Train](images/train02.png)
 ![Train](images/train03.PNG)
 
+## Test your model
+1. From the Custom Vision web page, select your project. Select Quick Test on the right of the top menu bar. This action opens a window labeled Quick Test.
+2. In the Quick Test window, click in the Submit Image field and enter the URL of the image you want to use for your test. If you want to use a locally stored image instead, click the Browse local files button and select a local image file.
+![Test](images/test1.PNG)
+3. Repeat the test for another image
+![Test](images/test2.PNG)
+
+
+
 
