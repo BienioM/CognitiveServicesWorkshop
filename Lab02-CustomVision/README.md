@@ -40,4 +40,9 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 
 3. To upload another set of images, return to step 1. For example, if you want to distinguish between knots and strips, upload and tag images of strips.
 
+## Train and evaluate the classifier
+1. o train the classifier, select the Train button.
+![Train](images/train02.png)
+![Train](images/train03.png)
+
 
