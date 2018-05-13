@@ -1,7 +1,10 @@
-## Use the prediction endpoint to test images programmatically
+## Accessing the prediction endpoint using REST API
 
-Mark the current version of the service as default
+In this section of the lab, we will demonstrate how to access the REST prediction endpoint exposed by your service.
+The instructor will walk you through `predict.ipynb` Jupyter notebook that illustrates how to use Python SDK to access the service.
+
+Before proceeding make sure to mark the current version of your model as a default iteration.
 
 ![Mark iteration](images/iteration.PNG)
 
-The instructor will walk you through `predict.ipynb` Jupyter notebook that illustrates how to access a prediction end point of your model.
+
