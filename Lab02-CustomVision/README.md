@@ -15,8 +15,6 @@ http://www.ee.oulu.fi/research/imag/wood/WOOD/README
 http://www.ee.oulu.fi/research/imag/wood/WOOD/
 
 
-
-
 ## Create a new project
 To create a new project, use the following steps:
 1. In your web browser, navigate to [Custom Vision web page](https://customvision.ai). 
@@ -58,7 +56,9 @@ Mark the current version of the service as default
 
 ![Mark iteration](images/iteration.PNG)
 
-Follow the instructor. Walk through `predict.ipynb` Jupyter notebook.
+The instructor will walk you through `predict.ipynb` Jupyter notebook that illustrates how to access a prediction end point for your model.
+
+
 
 
 
