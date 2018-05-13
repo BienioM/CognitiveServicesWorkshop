@@ -20,4 +20,7 @@ To convert the domain of an existing classifier, use the following steps:
 
 ![Retrained model](images/retrained.PNG)
 
-
+## Export your model
+To export the model after retraining, use the following steps:
+1. Go to the Performance tab and select Export.
+2. Select the export format (Docker), and then select Export to download the model.
