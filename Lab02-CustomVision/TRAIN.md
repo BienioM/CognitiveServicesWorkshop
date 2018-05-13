@@ -14,7 +14,6 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 
 ## Upload and tag training images
 1. To add images to the classifier, use the Add images button and then select Browse local files. Select Open to move to tagging.
-![Add images](images/add.JPG)
 
 2. To set the tag, enter text in the My Tags field and then use the + button. 
 
