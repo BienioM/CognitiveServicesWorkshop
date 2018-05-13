@@ -1,3 +1,4 @@
+# Training a custom classifier
 ## Create a new project
 To create a new project, use the following steps:
 1. In your web browser, navigate to [Custom Vision web page](https://customvision.ai). 
