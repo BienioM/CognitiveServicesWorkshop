@@ -33,7 +33,7 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 3. Repeat the test for another image
 ![Test](images/test2.PNG)
 
-## Using SDK to programmatically train and evaluate a model
+## Use SDK to programmatically train and evaluate models
 In this section of the lab we used Custom Vision Service web portal to execute the training workflow. It is also possible to script the workflow using Custom Vision Service SDK. Refer to the below link for more information:
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial
