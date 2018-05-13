@@ -17,7 +17,7 @@ http://www.ee.oulu.fi/research/imag/wood/WOOD/
 
 During the lab you will learn how to:
 1. Train and test the classifier
-2. Access a prediction point of the classifier using REST API
+2. Access the classifier using REST API
 3. Export the classifier as a docker container.
 
 
