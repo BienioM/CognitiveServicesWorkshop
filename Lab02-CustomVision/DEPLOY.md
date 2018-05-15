@@ -12,5 +12,9 @@ az container create --resource-group <resource group> --name <container name> --
 
 ## Show the container's status
 ```
-az container show --resource-group <Your resource group> --name <Container name>  --query "{FQDN:ipAddress.fqdn,ProvisioningState:provisioningState}" --out table
+az container show --resource-group <Your resource group> --name <Container name> "
+```
+## Invoke the prediction point in the container
+```
+curl -X POST http://<container FQDN> -F imageData=@<image file>
 ```
