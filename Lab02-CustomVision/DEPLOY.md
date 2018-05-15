@@ -1,5 +1,7 @@
 # Deploy a custom vision service container to Azure Container Instance
 
+## Create a docker image from the exported zip file
+
 ## Create a resource group
 ```
 az group create --name <resource group> --location <location>
