@@ -9,7 +9,7 @@ az group create --name <resource group> --location <location>
 
 ## Create a container
 ```
-az container create --resource-group <resource group> --name <container name> --image microsoft/aci-helloworld --dns-name-label <DNS prefix> --ports 80
+az container create --resource-group <resource group> --name <container name> --image <your image> --dns-name-label <DNS prefix> --ports 80
 ```
 
 ## Show the container's status
